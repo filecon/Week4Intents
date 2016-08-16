@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Week4Intents</string>
+    <string name="ask_text">Ask Question</string>
+</resources>
