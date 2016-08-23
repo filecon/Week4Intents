@@ -32,6 +32,8 @@ public class ActivityB extends AppCompatActivity {
         String myString = editText.getText().toString(); //move value to myString
         i.putExtra("qString", myString); // Pass value to ActivityA
 
+        //
+        
         startActivity(i);
     }
 }
